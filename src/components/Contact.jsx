@@ -17,9 +17,9 @@ const Contact = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Handle form submission here
+    
     console.log('Form submitted:', formData);
-    // You can integrate with email service or backend API
+    
     alert('Thank you for your message! I\'ll get back to you soon.');
     setFormData({ name: '', email: '', subject: '', message: '' });
   };
@@ -131,7 +131,7 @@ const Contact = () => {
                   <div className="min-w-0 flex-1">
                     <h4 className="font-bold mb-1">Phone</h4>
                     <a 
-                      href="tel:+1234567890" 
+                      href="tel:+233240897702" 
                       className="text-gray-600 hover:text-blue-500"
                     >
                       024 089 7702

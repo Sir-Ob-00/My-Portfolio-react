@@ -68,8 +68,8 @@ const About = () => {
             </div>
             
             <div className="flex flex-wrap gap-4">
-              <div className="px-4 py-2 bg-gray-100 rounded-full text-sm font-medium">HTML5</div>
-              <div className="px-4 py-2 bg-gray-100 rounded-full text-sm font-medium">CSS3</div>
+              <div className="px-4 py-2 bg-gray-100 rounded-full text-sm font-medium">HTML</div>
+              <div className="px-4 py-2 bg-gray-100 rounded-full text-sm font-medium">CSS</div>
               <div className="px-4 py-2 bg-gray-100 rounded-full text-sm font-medium">JavaScript</div>
               <div className="px-4 py-2 bg-gray-100 rounded-full text-sm font-medium">React</div>
               <div className="px-4 py-2 bg-gray-100 rounded-full text-sm font-medium">TailwindCSS</div>

@@ -44,7 +44,7 @@ const Projects = () => {
                     <i className="fab fa-github"></i>
                   </a>
                   <a 
-                    href="#" 
+                    href="" 
                     className="text-gray-400 hover:text-blue-500"
                   >
                     <i className="fas fa-external-link-alt"></i>
@@ -141,7 +141,7 @@ const Projects = () => {
         
         <div className="text-center mt-12">
           <a 
-            href="#" 
+            href="https://github.com/Sir-Ob-00" 
             className="px-6 py-3 border border-gray-300 rounded-full font-medium hover:bg-gray-100 transition-all inline-flex items-center"
           >
             View All Projects

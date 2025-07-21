@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Hero = () => {
   const scrollToSection = (href) => {
     const element = document.querySelector(href);
