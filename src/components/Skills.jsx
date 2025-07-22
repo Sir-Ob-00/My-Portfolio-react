@@ -54,7 +54,7 @@ const Skills = () => {
           
           <div>
             <h3 className="text-xl font-bold mb-6">Professional Skills</h3>
-            <div className="grid grid-cols-2 gap-6">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               <div className="p-6 bg-white rounded-xl shadow-sm hover:shadow-md transition-all">
                 <div className="text-blue-500 text-3xl mb-3">
                   <i className="fas fa-comments"></i>

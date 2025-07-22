@@ -111,7 +111,7 @@ const Contact = () => {
               
               <div className="space-y-6">
                 <div className="flex items-start">
-                  <div className="bg-blue-100 p-3 rounded-full mr-4 flex-shrink-0">
+                  <div className="bg-blue-100 w-10 h-10 text-center content-center rounded-full mr-4 flex-shrink-0">
                     <i className="fas fa-envelope text-blue-500"></i>
                   </div>
                   <div className="min-w-0 flex-1">
@@ -125,7 +125,7 @@ const Contact = () => {
                   </div>
                 </div>
                 <div className="flex items-start">
-                  <div className="bg-purple-100 p-3 rounded-full mr-4 flex-shrink-0">
+                  <div className="bg-purple-100 w-10 h-10 text-center content-center rounded-full mr-4 flex-shrink-0">
                     <i className="fas fa-phone-alt text-purple-500"></i>
                   </div>
                   <div className="min-w-0 flex-1">
@@ -139,7 +139,7 @@ const Contact = () => {
                   </div>
                 </div>
                 <div className="flex items-start">
-                  <div className="bg-green-100 p-3 rounded-full mr-4 flex-shrink-0">
+                  <div className="bg-green-100 w-10 h-10 text-center content-center rounded-full mr-4 flex-shrink-0">
                     <i className="fab fa-linkedin-in text-green-500"></i>
                   </div>
                   <div className="min-w-0 flex-1">
@@ -153,7 +153,7 @@ const Contact = () => {
                   </div>
                 </div>
                 <div className="flex items-start">
-                  <div className="bg-yellow-100 p-3 rounded-full mr-4 flex-shrink-0">
+                  <div className="bg-yellow-100 w-10 h-10 text-center content-center rounded-full mr-4 flex-shrink-0">
                     <i className="fab fa-github text-yellow-500"></i>
                   </div>
                   <div className="min-w-0 flex-1">
